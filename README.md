@@ -1,2 +1,2 @@
 # ysjmailer
-Newsletter mailer for @ysjournal. 
+Newsletter mailer for @youngscientists. 
