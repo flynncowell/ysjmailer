@@ -27,6 +27,6 @@
     "express": "^4.17.1",
     "express-mailer": "^0.3.1",
     "mongodb": "^3.5.3",
-    "nodemailer": "^6.4.2"
+    "nodemailer": "^6.4.16"
   }
 }
